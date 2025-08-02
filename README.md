@@ -1,56 +1,48 @@
-## Adrielly Alexandre
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00ff88&height=100&section=header&text=Adrielly%20Alexandre&fontColor=ffffff&fontSize=30&fontAlignY=40"/>
 
-Estudante de **Sistemas de Informação** no CIn/UFPE, apaixonada por desenvolvimento front-end e design digital. Gosto de criar interfaces intuitivas e acessíveis, unindo código limpo e experiência do usuário. Também tenho experiência com design gráfico para projetos de impacto.
+<br>
+
+<div align="center">
+  <samp>
+    <b>01000001 01100100 01110010 01101001 01100101 01101100 01101100 01111001</b><br>
+    <b style="color:#00ff88">Front-End Developer | UI/UX Designer | CIn/UFPE</b><br><br>
+    <i>"Interfaces que funcionam. Códigos que respiram."</i>
+  </samp>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aas12-CIN&color=00ff88&label=Visitors&style=flat-square" />
+</p>
 
 ---
 
-### 🚀 Tecnologias que uso:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Golang" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+### 
+<div align="center" style="margin-top:10px">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,go,python,figma,git,photoshop&theme=dark" />
 </div>
 
 ---
 
-### 💼 Experiência
+### 💻 Terminal Info
 
-- 👩‍💻 **Front-End Developer** na NoxPay (jan/2025 – atual)
-- 🎨 **Designer Gráfico** na Blockful (jan/2024 – jan/2025)
-- 🎨 **Designer Gráfico** na Nox Saúde (dez/2023 – abr/2025)
-- 🚀 **CInConecta** – UI Designer e dev front-end (projeto reconhecido pela Prefeitura do Recife)
+```bash
+> whoami
+"Adrielly Alexandre"
 
----
+> user.bio
+"Estudante de Sistemas de Informação no CIn/UFPE. 
+Especialista em interfaces responsivas, design intuitivo e soluções de impacto."
 
-### 📚 Certificações
+> skills --full
+[HTML, CSS, JavaScript, React, Golang, Python, GitHub, Figma, Photoshop]
 
-- Curso de Front-End — **Meta / Coursera**
-- Curso de Golang — **Udemy**
+> certs
+✓ Front-End Developer – Meta (Coursera)
+✓ Golang Developer – Udemy
 
----
-
-### 🌎 Idiomas
-
-- 🇧🇷 Português — Nativo  
-- 🇺🇸 Inglês — Avançado  
-- 🇮🇹 Italiano — Básico
-
----
-
-### 📬 Contato
-
-<div>
-  <a href="mailto:aas12@cin.ufpe.br"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
----
-
-✨ *Construindo experiências digitais com propósito e design!*
-
+> langs
+✔️ Português — Nativo
+✔️ Inglês — Avançado
+✔️ Italiano — Básico
