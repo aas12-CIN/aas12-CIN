@@ -6,7 +6,7 @@
 
 <div align="center">
   <samp>
-    <b style="color:#8CC6F0">01000001 01100100 01110010 01101001 01100101 01101100 01101100 01111001</b><br>
+    <b>01000001 01100100 01110010 01101001 01100101 01101100 01101100 01111001</b><br>
     <b style="color:#00ff88">Front-End Developer | UI/UX Designer | CIn/UFPE</b><br><br>
     <i>"Interfaces que funcionam. Códigos que respiram."</i>
   </samp>
