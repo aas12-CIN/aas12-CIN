@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=61cf5a&height=85&section=header&text=Adrielly%20Alexandre&fontColor=ffffff&fontSize=30&fontAlignY=80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8CC6F0&height=85&section=header&text=Adrielly%20Alexandre&fontColor=ffffff&fontSize=30&fontAlignY=80"/>
 
 
 
@@ -16,7 +16,7 @@
 
 <div align="center">
   <p align="center">
-    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Faas12-CIN&s=21&c=61cf5a&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
+    <img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Faas12-CIN&s=21&c=8CC6F0&bg=00000000&no=2&ff=digi&tb=Profile+Visits%3A++&ta=" />
   </p>
 </div>
 
