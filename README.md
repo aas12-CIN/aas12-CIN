@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8CC6F0&height=85&section=header&text=Adrielly%20Alexandre&fontColor=000000&fontSize=30&fontAlignY=80"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8CC6F0&height=85&section=header&text=Adrielly%20Alexandre&fontColor=808080&fontSize=30&fontAlignY=80"/>
 
 
 
